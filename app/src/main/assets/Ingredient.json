@@ -1,0 +1,60 @@
+{
+  "name": "Apple Oatmeal Bake",
+  "ingredients": [
+    {
+      "item": [
+        {
+          "ingredient": "2 cup Oats"
+        },
+        {
+          "ingredient": "1 teaspoon Baking Powder"
+        },
+        {
+          "ingredient": "2.5 teaspoon Ground Cinnamon"
+        },
+        {
+          "ingredient": ".25 teaspoon Ground Nutmeg"
+        },
+        {
+          "ingredient": ".50 teaspoon Sea Salt"
+        },
+        {
+          "ingredient": "20 Granny Smith Medium Apples"
+        },
+        {
+          "ingredient": "1.75 cup Almond Milk"
+        },
+        {
+          "ingredient": "3 Eggs"
+        },
+        {
+          "ingredient": ".5 cup Brown Sugar"
+        },
+        {
+          "ingredient": "1 teaspoon Vanilla"
+        },
+        {
+          "ingredient": "2 scoop Healthy Meal Protein*"
+        }
+      ],
+      "title": "Oatmeal Bake"
+    },
+    {
+      "item": [
+        {
+          "ingredient": ".50 cup Almond Milk"
+        },
+        {
+          "ingredient": ".25 cup Brown Sugar"
+        },
+        {
+          "ingredient": ".25 teaspoon Salt"
+        },
+        {
+          "ingredient": ".25 teaspoon Vanilla"
+        }
+      ],
+      "title": "Brown Sugar Sauce"
+    }
+  ]
+}
