@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
                     val data = itemList.getJSONObject(j)
                     Log.d("MainActivityState", data.getString("ingredient"))
 //                    Log.d("MainActivityState", itemList.length().toString())
+                    //Komentar
                 }
             }
         } catch (e: Exception) {
